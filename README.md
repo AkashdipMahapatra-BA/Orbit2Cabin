@@ -14,6 +14,10 @@ A reference architecture + system design for delivering **gate-to-gate onboard i
 
 </br>
 
+<img width="1174" height="610" alt="image" src="https://github.com/user-attachments/assets/6d808d49-ce5e-4774-879d-7bc5c8c238ee" />
+
+</br>
+
 <img width="1128" height="69" alt="Screenshot 2025-12-17 061349" src="https://github.com/user-attachments/assets/959f607e-77d9-4c6b-9e63-2fce36bbb0d4" />
 <img width="1172" height="101" alt="Screenshot 2025-12-17 061458" src="https://github.com/user-attachments/assets/2a1bf6ea-6dfc-49a6-89ad-a78780dd630c" />
 
