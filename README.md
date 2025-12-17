@@ -6,6 +6,19 @@ A reference architecture + system design for delivering **gate-to-gate onboard i
 
 <img src="public/img/Plan.png">
 
+<details>
+  <summary style="opacity: 0.85;"><b>Why this repo ?</b></summary><br>
+  <div style="display: flex; align-items: center; gap: 10px;" align="center">
+
+<img width="1366" height="768" alt="Screenshot 2025-12-17 055756" src="https://github.com/user-attachments/assets/cc8f5921-18ee-4c18-865e-6375bdb06aff" />
+
+</br>
+
+<img width="1128" height="69" alt="Screenshot 2025-12-17 061349" src="https://github.com/user-attachments/assets/959f607e-77d9-4c6b-9e63-2fce36bbb0d4" />
+<img width="1172" height="101" alt="Screenshot 2025-12-17 061458" src="https://github.com/user-attachments/assets/2a1bf6ea-6dfc-49a6-89ad-a78780dd630c" />
+
+</details>
+
 ---
 
 ## What This Repo Covers
